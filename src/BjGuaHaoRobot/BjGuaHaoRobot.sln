@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BjGuaHaoRobot", "BjGuaHaoRobot\BjGuaHaoRobot.csproj", "{7B5D1292-B561-45B0-AEA5-23D7C8E22B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BjGuaHaoRobot.ConsoleApp", "BjGuaHaoRobot.ConsoleApp\BjGuaHaoRobot.ConsoleApp.csproj", "{75D1C57E-B203-4952-BAC4-8D7E54A7F387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B5D1292-B561-45B0-AEA5-23D7C8E22B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5D1292-B561-45B0-AEA5-23D7C8E22B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5D1292-B561-45B0-AEA5-23D7C8E22B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5D1292-B561-45B0-AEA5-23D7C8E22B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D1C57E-B203-4952-BAC4-8D7E54A7F387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D1C57E-B203-4952-BAC4-8D7E54A7F387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D1C57E-B203-4952-BAC4-8D7E54A7F387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D1C57E-B203-4952-BAC4-8D7E54A7F387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
